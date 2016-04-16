@@ -1,0 +1,11 @@
+# python
+*.pyc
+
+
+# OS files #
+.DS_Store
+
+# log files #
+*.log
+
+/log
