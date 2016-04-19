@@ -93,8 +93,8 @@ class Parser:
                 if (desc_sets[0].find(pos)!=-1):
                     area = pos;
                     break;
-            if (area=="joint" and side=="NULL"):
-                area = "NULL"
+        if (area=="joint" and side=="NULL"):
+            area = "NULL"
         return area, side;
 
     

@@ -1,4 +1,4 @@
-INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M00.00', 'Staphylococcal arthritis, unspecified joint', '10', NULL, 'joint', 0;
+INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M00.00', 'Staphylococcal arthritis, unspecified joint', '10', NULL, NULL, 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M00.011', 'Staphylococcal arthritis, right shoulder', '10', 'right', 'shoulder', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M00.012', 'Staphylococcal arthritis, left shoulder', '10', 'left', 'shoulder', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M00.019', 'Staphylococcal arthritis, unspecified shoulder', '10', NULL, 'shoulder', 0;
@@ -22,7 +22,7 @@ INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Are
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M00.079', 'Staphylococcal arthritis, unspecified ankle and foot', '10', NULL, 'ankle and foot', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M00.08', 'Staphylococcal arthritis, vertebrae', '10', NULL, 'vertebrae', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M00.09', 'Staphylococcal polyarthritis', '10', NULL, NULL, 0;
-INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M00.10', 'Pneumococcal arthritis, unspecified joint', '10', NULL, 'joint', 0;
+INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M00.10', 'Pneumococcal arthritis, unspecified joint', '10', NULL, NULL, 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M00.111', 'Pneumococcal arthritis, right shoulder', '10', 'right', 'shoulder', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M00.112', 'Pneumococcal arthritis, left shoulder', '10', 'left', 'shoulder', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M00.119', 'Pneumococcal arthritis, unspecified shoulder', '10', NULL, 'shoulder', 0;
@@ -46,7 +46,7 @@ INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Are
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M00.179', 'Pneumococcal arthritis, unspecified ankle and foot', '10', NULL, 'ankle and foot', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M00.18', 'Pneumococcal arthritis, vertebrae', '10', NULL, 'vertebrae', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M00.19', 'Pneumococcal polyarthritis', '10', NULL, NULL, 0;
-INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M00.20', 'Other streptococcal arthritis, unspecified joint', '10', NULL, 'joint', 0;
+INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M00.20', 'Other streptococcal arthritis, unspecified joint', '10', NULL, NULL, 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M00.211', 'Other streptococcal arthritis, right shoulder', '10', 'right', 'shoulder', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M00.212', 'Other streptococcal arthritis, left shoulder', '10', 'left', 'shoulder', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M00.219', 'Other streptococcal arthritis, unspecified shoulder', '10', NULL, 'shoulder', 0;
@@ -70,7 +70,7 @@ INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Are
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M00.279', 'Other streptococcal arthritis, unspecified ankle and foot', '10', NULL, 'ankle and foot', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M00.28', 'Other streptococcal arthritis, vertebrae', '10', NULL, 'vertebrae', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M00.29', 'Other streptococcal polyarthritis', '10', NULL, NULL, 0;
-INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M00.80', 'Arthritis due to other bacteria, unspecified joint', '10', NULL, 'joint', 0;
+INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M00.80', 'Arthritis due to other bacteria, unspecified joint', '10', NULL, NULL, 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M00.811', 'Arthritis due to other bacteria, right shoulder', '10', 'right', 'shoulder', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M00.812', 'Arthritis due to other bacteria, left shoulder', '10', 'left', 'shoulder', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M00.819', 'Arthritis due to other bacteria, unspecified shoulder', '10', NULL, 'shoulder', 0;
@@ -1887,7 +1887,7 @@ INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Are
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M24.374', 'Pathological dislocation of right foot, not elsewhere classified', '10', NULL, 'not elsewhere classified', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M24.375', 'Pathological dislocation of left foot, not elsewhere classified', '10', NULL, 'not elsewhere classified', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M24.376', 'Pathological dislocation of unspecified foot, not elsewhere classified', '10', NULL, 'not elsewhere classified', 0;
-INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M24.40', 'Recurrent dislocation, unspecified joint', '10', NULL, 'joint', 0;
+INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M24.40', 'Recurrent dislocation, unspecified joint', '10', NULL, NULL, 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M24.411', 'Recurrent dislocation, right shoulder', '10', 'right', 'shoulder', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M24.412', 'Recurrent dislocation, left shoulder', '10', 'left', 'shoulder', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M24.419', 'Recurrent dislocation, unspecified shoulder', '10', NULL, 'shoulder', 0;
@@ -1918,7 +1918,7 @@ INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Are
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M24.477', 'Recurrent dislocation, right toe(s)', '10', 'right', 'toe(s)', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M24.478', 'Recurrent dislocation, left toe(s)', '10', 'left', 'toe(s)', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M24.479', 'Recurrent dislocation, unspecified toe(s)', '10', NULL, 'toe(s)', 0;
-INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M24.50', 'Contracture, unspecified joint', '10', NULL, 'joint', 0;
+INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M24.50', 'Contracture, unspecified joint', '10', NULL, NULL, 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M24.511', 'Contracture, right shoulder', '10', 'right', 'shoulder', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M24.512', 'Contracture, left shoulder', '10', 'left', 'shoulder', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M24.519', 'Contracture, unspecified shoulder', '10', NULL, 'shoulder', 0;
@@ -1943,7 +1943,7 @@ INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Are
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M24.574', 'Contracture, right foot', '10', 'right', 'foot', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M24.575', 'Contracture, left foot', '10', 'left', 'foot', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M24.576', 'Contracture, unspecified foot', '10', NULL, 'foot', 0;
-INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M24.60', 'Ankylosis, unspecified joint', '10', NULL, 'joint', 0;
+INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M24.60', 'Ankylosis, unspecified joint', '10', NULL, NULL, 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M24.611', 'Ankylosis, right shoulder', '10', 'right', 'shoulder', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M24.612', 'Ankylosis, left shoulder', '10', 'left', 'shoulder', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M24.619', 'Ankylosis, unspecified shoulder', '10', NULL, 'shoulder', 0;
@@ -1992,7 +1992,7 @@ INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Are
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M24.875', 'Other specific joint derangements left foot, not elsewhere classified', '10', NULL, 'not elsewhere classified', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M24.876', 'Other specific joint derangements of unspecified foot, not elsewhere classified', '10', NULL, 'not elsewhere classified', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M24.9', 'Joint derangement, unspecified', '10', NULL, NULL, 0;
-INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.00', 'Hemarthrosis, unspecified joint', '10', NULL, 'joint', 0;
+INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.00', 'Hemarthrosis, unspecified joint', '10', NULL, NULL, 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.011', 'Hemarthrosis, right shoulder', '10', 'right', 'shoulder', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.012', 'Hemarthrosis, left shoulder', '10', 'left', 'shoulder', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.019', 'Hemarthrosis, unspecified shoulder', '10', NULL, 'shoulder', 0;
@@ -2018,7 +2018,7 @@ INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Are
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.075', 'Hemarthrosis, left foot', '10', 'left', 'foot', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.076', 'Hemarthrosis, unspecified foot', '10', NULL, 'foot', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.08', 'Hemarthrosis, other specified site', '10', NULL, 'other specified site', 0;
-INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.10', 'Fistula, unspecified joint', '10', NULL, 'joint', 0;
+INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.10', 'Fistula, unspecified joint', '10', NULL, NULL, 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.111', 'Fistula, right shoulder', '10', 'right', 'shoulder', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.112', 'Fistula, left shoulder', '10', 'left', 'shoulder', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.119', 'Fistula, unspecified shoulder', '10', NULL, 'shoulder', 0;
@@ -2044,7 +2044,7 @@ INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Are
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.175', 'Fistula, left foot', '10', 'left', 'foot', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.176', 'Fistula, unspecified foot', '10', NULL, 'foot', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.18', 'Fistula, other specified site', '10', NULL, 'other specified site', 0;
-INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.20', 'Flail joint, unspecified joint', '10', NULL, 'joint', 0;
+INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.20', 'Flail joint, unspecified joint', '10', NULL, NULL, 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.211', 'Flail joint, right shoulder', '10', 'right', 'shoulder', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.212', 'Flail joint, left shoulder', '10', 'left', 'shoulder', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.219', 'Flail joint, unspecified shoulder', '10', NULL, 'shoulder', 0;
@@ -2067,7 +2067,7 @@ INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Are
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.272', 'Flail joint, left ankle and foot', '10', 'left', 'ankle and foot', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.279', 'Flail joint, unspecified ankle and foot', '10', NULL, 'ankle and foot', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.28', 'Flail joint, other site', '10', NULL, 'other site', 0;
-INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.30', 'Other instability, unspecified joint', '10', NULL, 'joint', 0;
+INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.30', 'Other instability, unspecified joint', '10', NULL, NULL, 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.311', 'Other instability, right shoulder', '10', 'right', 'shoulder', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.312', 'Other instability, left shoulder', '10', 'left', 'shoulder', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.319', 'Other instability, unspecified shoulder', '10', NULL, 'shoulder', 0;
@@ -2092,7 +2092,7 @@ INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Are
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.374', 'Other instability, right foot', '10', 'right', 'foot', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.375', 'Other instability, left foot', '10', 'left', 'foot', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.376', 'Other instability, unspecified foot', '10', NULL, 'foot', 0;
-INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.40', 'Effusion, unspecified joint', '10', NULL, 'joint', 0;
+INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.40', 'Effusion, unspecified joint', '10', NULL, NULL, 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.411', 'Effusion, right shoulder', '10', 'right', 'shoulder', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.412', 'Effusion, left shoulder', '10', 'left', 'shoulder', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.419', 'Effusion, unspecified shoulder', '10', NULL, 'shoulder', 0;
@@ -2162,7 +2162,7 @@ INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Are
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.674', 'Stiffness of right foot, not elsewhere classified', '10', NULL, 'not elsewhere classified', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.675', 'Stiffness of left foot, not elsewhere classified', '10', NULL, 'not elsewhere classified', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.676', 'Stiffness of unspecified foot, not elsewhere classified', '10', NULL, 'not elsewhere classified', 0;
-INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.70', 'Osteophyte, unspecified joint', '10', NULL, 'joint', 0;
+INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.70', 'Osteophyte, unspecified joint', '10', NULL, NULL, 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.711', 'Osteophyte, right shoulder', '10', 'right', 'shoulder', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.712', 'Osteophyte, left shoulder', '10', 'left', 'shoulder', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.719', 'Osteophyte, unspecified shoulder', '10', NULL, 'shoulder', 0;
@@ -2188,7 +2188,7 @@ INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Are
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.775', 'Osteophyte, left foot', '10', 'left', 'foot', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.776', 'Osteophyte, unspecified foot', '10', NULL, 'foot', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.78', 'Osteophyte, vertebrae', '10', NULL, 'vertebrae', 0;
-INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.80', 'Other specified joint disorders, unspecified joint', '10', NULL, 'joint', 0;
+INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.80', 'Other specified joint disorders, unspecified joint', '10', NULL, NULL, 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.811', 'Other specified joint disorders, right shoulder', '10', 'right', 'shoulder', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.812', 'Other specified joint disorders, left shoulder', '10', 'left', 'shoulder', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M25.819', 'Other specified joint disorders, unspecified shoulder', '10', NULL, 'shoulder', 0;
@@ -3392,7 +3392,7 @@ INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Are
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M65.89', 'Other synovitis and tenosynovitis, multiple sites', '10', NULL, 'multiple sites', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M65.9', 'Synovitis and tenosynovitis, unspecified', '10', NULL, NULL, 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M66.0', 'Rupture of popliteal cyst', '10', NULL, NULL, 0;
-INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M66.10', 'Rupture of synovium, unspecified joint', '10', NULL, 'joint', 0;
+INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M66.10', 'Rupture of synovium, unspecified joint', '10', NULL, NULL, 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M66.111', 'Rupture of synovium, right shoulder', '10', 'right', 'shoulder', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M66.112', 'Rupture of synovium, left shoulder', '10', 'left', 'shoulder', 0;
 INSERT INTO `ICDDiagnosticCodes` (`Code`, `Description`, `Version`, `Side`, `Area`, `InferAnatomy`)VALUES ('M66.119', 'Rupture of synovium, unspecified shoulder', '10', NULL, 'shoulder', 0;
